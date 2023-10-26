@@ -1,0 +1,22 @@
+.price{
+  font-size: 23px;
+  font-weight: 600;
+  color: #456ABD;
+}
+
+.card-text{
+  color: gray;
+}
+.containers{
+  
+ padding: 15px;
+ display: flex;
+ flex-wrap: wrap;
+ padding-left: 15%;
+ padding-right: 15%;
+}
+
+.card{
+  margin: 15px;
+}
+
